@@ -1,7 +1,7 @@
 # Recurrent Neural Network (RNN) and Natural Language Processing (NLP) 
 
 In this Repo , I'm covered the RNN related topics like LSTM  , Birectional LSTM etc and also some Projects related to RNN.
- - Stock Price using LSTM
+ - Stock Price Forcasting using LSTM
  - Fake News Prediction using LSTM
  - Fake News Prediction using Birdirectional LSTM
  
